@@ -42,6 +42,10 @@ https://github.com/user-attachments/assets/0cc1e375-4e97-4b16-b624-bc3ad204173b
      - Click **Next**
      - Lastly, click **Finish**
 
+
+https://github.com/user-attachments/assets/873a91f7-3e2a-487e-89f0-36aa08df348a
+
+
 2. Go to Windows 10 VM
    - Select **Other user**
    - Enter Credentials
