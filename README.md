@@ -74,3 +74,7 @@ https://github.com/user-attachments/assets/36368e4f-e725-4638-82f2-f05790cd2865
    - Select **Reset Password** and enter new password
    - Leave **User must change password at next logon** checked
    - Select **Unlock the user's account** if the user account is locked
+
+
+https://github.com/user-attachments/assets/663e3fc6-4002-4a1e-b600-eced2b7e307b
+
