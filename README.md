@@ -63,6 +63,10 @@ https://github.com/user-attachments/assets/fff318fa-11e9-46e0-bb62-63f2397a99a8
    - To lock Account ,Enter the wrong password several times
 
 
+https://github.com/user-attachments/assets/36368e4f-e725-4638-82f2-f05790cd2865
+
+
+
 2. In the Server Manager
    - Go to **Tools > Active Directory Users and Computers**
    - Under **Users** folder, select the user
