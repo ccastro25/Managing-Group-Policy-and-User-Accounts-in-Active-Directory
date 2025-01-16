@@ -13,6 +13,10 @@ This repository provides step-by-step instructions for managing Group Policy and
 4. Select the **Settings** tab to view Policy details
 5. Scroll down to **Computer Configuration** to view password policy
 
+
+https://github.com/user-attachments/assets/82369297-4f85-4fd1-a2da-00dee1133166
+
+
 ### Edit Policy
 1. Right-click **Default Domain Policy**
 2. Select **Edit**
