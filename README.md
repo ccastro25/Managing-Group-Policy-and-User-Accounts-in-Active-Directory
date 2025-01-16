@@ -46,11 +46,15 @@ https://github.com/user-attachments/assets/0cc1e375-4e97-4b16-b624-bc3ad204173b
 https://github.com/user-attachments/assets/873a91f7-3e2a-487e-89f0-36aa08df348a
 
 
-2. Go to Windows 10 VM
+2. Go to Windows 10 Virtual Machine
    - Select **Other user**
    - Enter Credentials
    - You will be prompted to create a new password
    - After entering a new password, you will be granted access
+
+
+https://github.com/user-attachments/assets/fff318fa-11e9-46e0-bb62-63f2397a99a8
+
 
 ## Resetting Password
 1. In the Server Manager
