@@ -57,7 +57,13 @@ https://github.com/user-attachments/assets/fff318fa-11e9-46e0-bb62-63f2397a99a8
 
 
 ## Resetting Password
-1. In the Server Manager
+1. Go to Windows 10 Virtual Machine
+   - Select **Other user**
+   - Select User
+   - To lock Account ,Enter the wrong password several times
+
+
+2. In the Server Manager
    - Go to **Tools > Active Directory Users and Computers**
    - Under **Users** folder, select the user
    - Right-click the user
