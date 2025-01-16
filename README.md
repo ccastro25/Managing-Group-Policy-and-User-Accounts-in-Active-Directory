@@ -26,6 +26,10 @@ https://github.com/user-attachments/assets/82369297-4f85-4fd1-a2da-00dee1133166
      - Under **Password Policy**, you can change the length, age, and password history
      - Under **Account Lockout Policy**, you can determine the number of password attempts and their duration
 
+
+https://github.com/user-attachments/assets/0cc1e375-4e97-4b16-b624-bc3ad204173b
+
+
 ## Adding New User
 1. In the Server Manager
    - Go to **Tools > Active Directory Users and Computers**
